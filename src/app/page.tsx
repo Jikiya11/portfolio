@@ -1,14 +1,23 @@
-"use client";
-import { motion } from "motion/react";
+import Navbar from "@/components/Navbar";
+import Hero from "@/components/Hero";
+import About from "@/components/About";
+import Experience from "@/components/Experience";
+import Education from "@/components/Education";
+import Projects from "@/components/Projects";
+import Extracurriculars from "@/components/Extracurriculars";
+import Contact from "@/components/Contact";
 
 export default function Home() {
   return (
-    <motion.div
-      initial={{ opacity: 0 }}
-      animate={{ opacity: 1 }}
-      exit={{ opacity: 0 }}
-    >
-      <h1>Welcome to my portfolio</h1>
-    </motion.div>
+    <main>
+      <Navbar />
+      <Hero />
+      <About />
+      <Experience />
+      <Education />
+      <Projects />
+      <Extracurriculars />
+      <Contact />
+    </main>
   );
 }
