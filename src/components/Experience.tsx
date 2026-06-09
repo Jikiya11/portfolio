@@ -2,15 +2,6 @@ import FadeUp from "./FadeUp";
 
 const jobs = [
   {
-    date: "Jul 2018 – May 2026",
-    title: "Casual Labourer",
-    company: "City of St. Albert",
-    bullets: [
-      "Operated and maintained municipal equipment including Zamboni and turf machinery.",
-      "Trusted with independent operation of city assets during peak workloads.",
-    ],
-  },
-  {
     date: "May 2026 - Present",
     title: "Quality Assurance Analyst",
     company: "Costar Computer Systems",
@@ -18,6 +9,15 @@ const jobs = [
       "Worked closely with developers and designers to write items for new features.",
       "Developed a comprehensive understanding of real world enterprise software.",
       "Collaborated with a team of 15+ developers, designers and other analysts to ensure high quality code was released.",
+    ],
+  },
+  {
+    date: "Jul 2018 – May 2026",
+    title: "Casual Labourer",
+    company: "City of St. Albert",
+    bullets: [
+      "Operated and maintained municipal equipment including Zamboni and turf machinery.",
+      "Trusted with independent operation of city assets during peak workloads.",
     ],
   },
 ];
