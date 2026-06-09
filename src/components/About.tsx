@@ -46,7 +46,7 @@ export default function About() {
 
           <div>
             <FadeUp delay={0.1}>
-              <p className="text-sm tracking-[0.2em] uppercase text-tan-dark mb-4">
+              <p className="text-xl tracking-[0.2em] uppercase text-tan-dark mb-4">
                 Tech Stack
               </p>
             </FadeUp>
