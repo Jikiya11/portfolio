@@ -98,9 +98,9 @@ export default function Hero() {
           delay={0.85}
           className="text-charcoal-muted text-lg max-w-lg leading-relaxed mb-8"
         >
-          Recent NAIT Computer Software Development graduate with a 3.9 GPA and
-          Dean&apos;s Honours every semester. Passionate about building
-          real-world products with modern web technologies.
+          I build clean, modern web applications with Next.js, React, and C# -
+          with a focus on thoughtful frontend design and details users actually
+          feel.
         </Appear>
 
         <Appear

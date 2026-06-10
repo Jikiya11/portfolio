@@ -15,16 +15,16 @@ export interface Project {
 const projects: Project[] = [
   {
     status: "NAIT Capstone Project",
-    title: "Full-Stack Client Application",
+    title: "Production App for a Real-World Client",
     description:
-      "Collaborating with a real-world client to deliver a production-ready application from design through deployment. Responsible for frontend architecture and coordinating team workflow.",
+      "Working directly with an external client to deliver a production-ready application from design through deployment. Responsible for frontend architecture and coordinating team workflow.",
     roles: ["Assistant Team Lead", "Frontend Lead"],
     tags: ["Next.js", "React", "TypeScript", "C# API", "PostgreSQL", "Clerk"],
     link: "https://www.proathletemetrics.com/",
   },
   {
-    status: "Travel website",
-    title: "Full-Stack Web Application",
+    status: "Personal Project",
+    title: "WingIt — Travel Trip Showcase",
     description:
       "A website that showcases previous trips developed by friends and I. It allows users to view trip details, inquire about trips they can take, and get inspired for their own travels.",
     roles: ["Developer", "Designer"],
@@ -32,8 +32,8 @@ const projects: Project[] = [
     link: "https://wingit.world/",
   },
   {
-    status: "IMU sensor model",
-    title: "Frontend Web Application",
+    status: "Personal Project",
+    title: "Real-Time IMU Motion Visualizer",
     description:
       "A simple web application that reads data from an IMU sensor (or iPhone) and renders a 3D model in browser to track movements. Useful for visualizing and analyzing motion data in real time.",
     roles: ["Developer", "Architect", "Designer"],

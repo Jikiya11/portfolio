@@ -37,10 +37,10 @@ export default function About() {
               About
             </p>
             <p className="text-xl leading-relaxed text-charcoal/75">
-              Accountability and passion for my work drove my academic success
-              at NAIT, and I carry those same qualities into building software
-              that matters. I thrive in collaborative environments and enjoy
-              taking ownership of the frontend experience.
+              I hold myself to a high standard in everything I take on, and I
+              bring that same care to the software I build. I thrive in
+              collaborative teams and love owning the frontend experience end
+              to end.
             </p>
           </FadeUp>
 
