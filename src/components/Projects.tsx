@@ -24,7 +24,7 @@ const projects: Project[] = [
   },
   {
     status: "Personal Project",
-    title: "WingIt — Travel Trip Showcase",
+    title: "WingIt - Trip Showcase & Booking",
     description:
       "A website that showcases previous trips developed by friends and I. It allows users to view trip details, inquire about trips they can take, and get inspired for their own travels.",
     roles: ["Developer", "Designer"],
