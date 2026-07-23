@@ -83,7 +83,7 @@ export default function Contact() {
         </FadeUp>
 
         <div className="mt-20 pt-8 border-t border-white/8 text-charcoal-muted text-sm tracking-widest">
-          © 2026 Alexander Whyte
+          2026 Alexander Whyte
         </div>
       </div>
     </section>
